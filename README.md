@@ -9,7 +9,6 @@ This Excel dashboard project analyzes Blinkit's delivery and sales performance o
 | Folder             | Description                                      |
 |--------------------|--------------------------------------------------|
 | `raw_data/`         | Contains the raw input data file (`raw.csv`)    |
-| `clean_data/`       | *(optional)* Pre-processed data (if any)        |
 | `excel_report/`     | Final Excel dashboard file (`blinkit_dashboard.xlsx`) |
 | `dashboard_images/` | Preview screenshot of the dashboard             |
 
