@@ -66,11 +66,13 @@ This project presents an **interactive Excel dashboard** analyzing Blinkit's sal
 
 ---
 
-## 📌 Author
+## 👤 Author
 
 **Atul Verma**  
-[GitHub Profile](https://github.com/Atulv25)  
-[LinkedIn](www.linkedin.com/in/atul-verma25) 
+[LinkedIn: linkedin.com/in/atul-verma25](https://www.linkedin.com/in/atul-verma25)  
+[GitHub: github.com/Atulv25](https://github.com/Atulv25)
 
 ---
+
+
 
