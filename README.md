@@ -44,7 +44,6 @@ This Excel dashboard project analyzes Blinkit's delivery and sales performance o
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
 - Data Cleaning & Transformation  
-- Conditional Formatting  
-- Dashboard Design Best Practices
+- Conditional Formatting 
 
 ---
