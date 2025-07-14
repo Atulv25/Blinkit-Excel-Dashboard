@@ -1,49 +1,76 @@
-# 📊 Blinkit-Excel-Dashboard
+# 📊 Blinkit Interactive Excel Dashboard | Data Analyst Project
 
-This Excel dashboard project analyzes Blinkit's delivery and sales performance over one month. It showcases key metrics like total revenue, order volume, delivery time, cancellation rates, and customer ratings — all visualized in an interactive, filterable Excel dashboard.
+This project presents an **interactive Excel dashboard** analyzing Blinkit's sales and delivery performance across major Indian cities. It includes raw data, cleaned files, a professional Excel dashboard, and a preview image — ideal for data analyst portfolios and real-world analytics simulation.
 
 ---
 
 ## 📁 Project Structure
 
-| Folder             | Description                                      |
-|--------------------|--------------------------------------------------|
-| `raw_data/`         | Contains the raw input data file (`raw.csv`)    |
-| `excel_report/`     | Final Excel dashboard file (`blinkit_dashboard.xlsx`) |
-| `dashboard_images/` | Preview screenshot of the dashboard             |
+| Folder              | Description                                           |
+|---------------------|-------------------------------------------------------|
+| `raw_data/`         | Raw input data (`raw.csv`)                            |
+| `excel_report/`     | Final interactive dashboard (`blinkit_dashboard.xlsx`)|
+| `dashboard_images/` | Dashboard screenshot (`dashboard_preview.png`)        |
 
 ---
 
-## 🧠 Key Business Insights
+## 📊 Key Business KPIs Visualized
 
-- 💰 **Revenue:** ₹ 25.57 Cr total revenue  
-- 📦 **Orders:** 8.66+ lakh total orders  
-- 🚚 **Delivery Time:** Avg 27.8 minutes  
-- ❌ **Cancellations:** Over 41,000 orders cancelled  
-- ⭐ **Customer Rating:** Average 4.3 stars
-
----
-
-## 📊 Dashboard Preview
-
-![Blinkit Dashboard Preview](dashboard_images/dashboard_preview.png)
+- 💰 **Total Revenue:** ₹25,57,17,837  
+- 📦 **Total Orders:** 8,66,152  
+- ⭐ **Average Rating:** 4.3  
+- 🚚 **Average Delivery Time:** 27.8 minutes  
+- ❌ **Cancelled Orders:** 41,519  
 
 ---
 
 ## 📈 Dashboard Features
 
-- 📌 **Category Analysis**: Top-performing product segments by orders and cancellations  
-- 🏙️ **City Performance**: Revenue and delivery insights across major cities  
-- 📉 **Customer Experience**: Trends in ratings and delivery performance  
-- 🎯 **Interactivity**: Pivot tables, slicers, charts for dynamic filtering and exploration
+- 🏙️ **City-wise Delivery Time & Revenue**  
+- 🛒 **Category-wise Orders & Cancellation Rates**  
+- ⭐ **Daily Customer Ratings Trend**  
+- 📊 **Dynamic Visuals with Slicers and Pivot Charts**  
+- 🎯 **KPI Cards** for quick business insights
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Skills Demonstrated
 
 - Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- Data Cleaning & Transformation  
-- Conditional Formatting 
+- Pivot Tables & Charts  
+- Slicers & Interactivity  
+- Conditional Formatting  
+- Dashboard Design Best Practices  
+- Data Cleaning & Transformation
 
 ---
+
+## 📷 Dashboard Preview
+
+![Blinkit Excel Dashboard Preview](dashboard_images/dashboard_preview.png)
+
+---
+
+## 🚀 How to Use
+
+1. Download `excel_report/blinkit_dashboard.xlsx`
+2. Open in Microsoft Excel (desktop)
+3. Explore KPIs with slicers (cities & categories)
+4. Modify visuals or extend the dashboard as needed
+
+---
+
+## 🎯 Purpose & Outcome
+
+> This project replicates a real-world data analytics task: transforming raw delivery and sales data into actionable insights through Excel. It's ideal for showcasing Excel skills in dashboards, interactivity, business analysis, and data storytelling.
+
+---
+
+## 📌 Author
+
+**Atul Verma**  
+[GitHub Profile](https://github.com/Atulv25)  
+[LinkedIn](www.linkedin.com/in/atul-verma25) 
+
+---
+
